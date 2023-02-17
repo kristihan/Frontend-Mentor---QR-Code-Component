@@ -4,6 +4,9 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ## Screenshot
 ![](./screenshot.png)
 
+## Link
+Live Site URL: https://kristihan.github.io/Frontend-Mentor-QR-Code-Component/
+
 ## Built with
 - Semantic HTML5 markup
 - CSS custom properties
